@@ -27,8 +27,6 @@ class Panel extends React.Component {
       <div className="col-md-4">
       <h1>Match</h1>
       <img src={'http://via.placeholder.com/350x300'} alt=""/>
-      <p><img src={'https://cdn.icon-icons.com/icons2/318/PNG/512/Lightsaber-Red-icon_34497.png'} alt="" className="sabre"/>
-      <img src={'https://cdn.icon-icons.com/icons2/318/PNG/512/Lightsaber-Green-icon_34496.png'} alt="" className="sabre"/></p>
       </div>
       </div>
       </div>
